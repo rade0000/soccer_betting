@@ -1,0 +1,219 @@
+[02-Jul-2018 11:03:48 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[02-Jul-2018 11:03:50 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[15-Jul-2018 23:04:13 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.64.85): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[18-Jul-2018 11:04:17 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[23-Jul-2018 11:04:05 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[13-Sep-2018 01:52:51 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.213): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[13-Sep-2018 02:09:13 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.87): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[13-Sep-2018 02:25:34 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.215): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[13-Sep-2018 02:41:56 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.211): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[13-Sep-2018 02:54:06 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/141.8.183.31): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[13-Sep-2018 02:58:18 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.215): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[13-Sep-2018 03:14:40 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.87): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[13-Sep-2018 03:31:02 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.89): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[14-Sep-2018 02:35:28 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/50.62.30.5): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[14-Sep-2018 02:35:28 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/50.62.30.5): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[14-Sep-2018 02:41:57 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.215): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[14-Sep-2018 02:58:19 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.213): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[14-Sep-2018 03:14:41 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.87): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[14-Sep-2018 03:19:39 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[14-Sep-2018 03:31:02 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.79.211): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 22:21:22 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/180.76.15.22): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 22:54:41 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/180.76.15.7): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:03:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'filmovi1_1x2'@'localhost' (using password: YES)' in /home/mojacena/freesoccerbetting.net/rezultati.php:3
+Stack trace:
+#0 /home/mojacena/freesoccerbetting.net/rezultati.php(3): PDO->__construct('mysql:host=127....', 'filmovi1_1x2', 'u=G7iqPuU#EQ')
+#1 {main}
+  thrown in /home/mojacena/freesoccerbetting.net/rezultati.php on line 3
+[19-Sep-2018 23:03:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'filmovi1_1x2'@'localhost' (using password: YES)' in /home/mojacena/freesoccerbetting.net/rezultati.php:3
+Stack trace:
+#0 /home/mojacena/freesoccerbetting.net/rezultati.php(3): PDO->__construct('mysql:host=127....', 'filmovi1_1x2', 'u=G7iqPuU#EQ')
+#1 {main}
+  thrown in /home/mojacena/freesoccerbetting.net/rezultati.php on line 3
+[19-Sep-2018 23:04:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'filmovi1_1x2'@'localhost' (using password: YES)' in /home/mojacena/freesoccerbetting.net/rezultati.php:3
+Stack trace:
+#0 /home/mojacena/freesoccerbetting.net/rezultati.php(3): PDO->__construct('mysql:host=127....', 'filmovi1_1x2', 'u=G7iqPuU#EQ')
+#1 {main}
+  thrown in /home/mojacena/freesoccerbetting.net/rezultati.php on line 3
+[19-Sep-2018 23:04:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'filmovi1_1x2'@'localhost' (using password: YES)' in /home/mojacena/freesoccerbetting.net/rezultati.php:3
+Stack trace:
+#0 /home/mojacena/freesoccerbetting.net/rezultati.php(3): PDO->__construct('mysql:host=127....', 'filmovi1_1x2', 'u=G7iqPuU#EQ')
+#1 {main}
+  thrown in /home/mojacena/freesoccerbetting.net/rezultati.php on line 3
+[19-Sep-2018 23:04:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'filmovi1_1x2'@'localhost' (using password: YES)' in /home/mojacena/freesoccerbetting.net/rezultati.php:3
+Stack trace:
+#0 /home/mojacena/freesoccerbetting.net/rezultati.php(3): PDO->__construct('mysql:host=127....', 'filmovi1_1x2', 'u=G7iqPuU#EQ')
+#1 {main}
+  thrown in /home/mojacena/freesoccerbetting.net/rezultati.php on line 3
+[19-Sep-2018 23:17:39 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:17:55 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:19:29 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/141.8.143.179): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:19:54 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:19:56 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:20:22 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/77.88.5.46): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:23:51 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:24:02 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:24:09 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:26:02 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:28:24 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/77.88.5.46): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:33:26 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:37:39 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:39:24 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:42:04 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:52:57 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:53:25 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[19-Sep-2018 23:54:04 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 00:04:27 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 00:05:31 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 00:07:18 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 00:18:28 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 00:26:26 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/23.80.143.183): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 00:26:27 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/23.80.143.183): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 00:26:28 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/23.80.143.183): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 00:37:02 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 01:12:53 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 01:19:10 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 01:22:22 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 01:33:19 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 01:33:44 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 01:35:54 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 01:37:47 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 01:47:08 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:01:44 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/138.246.253.5): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:09:27 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:10:27 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:14:31 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:17:04 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:20:30 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:25:16 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:26:11 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:33:11 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:34:09 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:34:55 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/52.11.99.15): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:34:57 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/52.11.99.15): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:38:04 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:39:44 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.64.153): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:47:48 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:52:51 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 02:55:20 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:05:42 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:09:48 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:17:04 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:17:14 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/137.226.113.28): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:30:35 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/54.36.148.40): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:31:19 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:31:59 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.64.151): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:33:36 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:35:21 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/54.36.149.14): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:36:59 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:38:18 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[20-Sep-2018 03:40:05 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[05-Oct-2018 02:14:59 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[05-Oct-2018 02:26:38 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[05-Oct-2018 02:41:14 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[05-Oct-2018 02:58:21 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[05-Oct-2018 03:07:59 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[05-Oct-2018 03:15:45 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[05-Oct-2018 03:21:05 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[05-Oct-2018 03:38:18 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[12-Oct-2018 01:36:20 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/66.249.73.158): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[13-Nov-2018 03:45:34 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[15-Nov-2018 03:25:08 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
+[15-Nov-2018 03:25:18 UTC] PHP Warning:  file_get_contents(http://freegeoip.net/json/137.226.113.27): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mojacena/freesoccerbetting.net/classes/Admin.class.php on line 1531
